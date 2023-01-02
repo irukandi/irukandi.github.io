@@ -1,0 +1,11 @@
+---
+title: "Experiments"
+description: |
+  Lol but can we prove it?
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

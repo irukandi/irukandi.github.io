@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "My side! Go away!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:19:57+01:00"
+    },
+    {
+      "path": "background.html",
+      "title": "Background",
+      "description": "Lol but where are we?\n",
+      "author": [],
+      "contents": "\r\nR Markdown\r\nHow to markdown http://rmarkdown.rstudio.com.\r\n\r\n\r\nsummary(cars)\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:19:57+01:00"
+    },
+    {
+      "path": "conclusion.html",
+      "title": "Conclusions and Outlook",
+      "description": "Lol and now?\n",
+      "author": [],
+      "contents": "\r\n\r\n# Dictionaries in an R IDE?!?! Amazing!\r\nmy_dict = {\"a\": 5, \"b\": 9, \"c\": 4}\r\nmy_key = \"c\"\r\nprint(f\"The value for '{my_key}' is: {my_dict[my_key]}.\")\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:19:58+01:00"
+    },
+    {
+      "path": "experiments.html",
+      "title": "Experiments",
+      "description": "Lol but can we prove it?\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:19:59+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "There Is No Turning Back: A Self-Supervised Approach for Reversibility-Aware Reinforcement Learning",
+      "description": "New website who diz?\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:20:00+01:00"
+    },
+    {
+      "path": "method.html",
+      "title": "Methodology",
+      "description": "Lol but how?\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:20:00+01:00"
+    },
+    {
+      "path": "results.html",
+      "title": "Results and Limitations",
+      "description": "Lol but what does it mean?\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-02T13:20:00+01:00"
+    }
+  ],
+  "collections": []
+}
