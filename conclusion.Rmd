@@ -1,0 +1,17 @@
+---
+title: "Conclusions and Outlook"
+description: |
+  Lol and now?
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{python, echo=TRUE, eval=FALSE}
+# Dictionaries in an R IDE?!?! Amazing!
+my_dict = {"a": 5, "b": 9, "c": 4}
+my_key = "c"
+print(f"The value for '{my_key}' is: {my_dict[my_key]}.")
+```

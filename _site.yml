@@ -1,0 +1,22 @@
+name: "not_turning_back"
+title: "There Is No Turning Back"
+description: |
+  There Is No Turning Back
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Introduction"
+      href: intro.html
+    - text: "Background"
+      href: background.html
+    - text: "Methodology"
+      href: method.html
+    - text: "Experiments"
+      href: experiments.html
+    - text: "Results and Limitations"
+      href: results.html
+    - text: "Conclusions and Outlook"
+      href: conclusion.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
